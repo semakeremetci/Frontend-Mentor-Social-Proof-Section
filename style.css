@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+body {
+    font-size: 15px;
+    font-family: 'Spartan', sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 100px 140px 20px 140px;
+}
+.ust {
+    display: flex;
+    margin-bottom: 45px;
+}
+.ilk {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 155px;
+}
+h1 {
+    font-weight: 700;
+    color:  hsl(300, 43%, 22%);
+    width: 350px;
+    font-size: 40px;
+}
+p {
+    color: hsl(303, 10%, 53%);
+    font-weight: 500;
+    width: 390px;
+    margin-top: 10px;
+    line-height: 25px;
+    letter-spacing: -1px;
+    font-size: 14px;
+}
+.yıldızlar {
+    display: flex;
+    flex-direction: column;
+}
+.birinci {
+    background-color: hsl(300, 24%, 96%);
+    margin-bottom: 15px;
+    display: flex;
+    padding: 17px 45px 16px 30px;
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+    font-size: 12px;
+    border-radius: 8px;
+    position: relative;
+    right: 25px;
+}
+.ikinci {
+    background-color: hsl(300, 24%, 96%);
+    margin-bottom: 15px;
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+    padding: 17px 45px 16px 30px;
+    display: flex;
+    font-size: 12px;
+    border-radius: 8px;
+    position: relative;
+    left: 25px;
+}
+.ucuncu {
+    background-color: hsl(300, 24%, 96%);
+    color: hsl(300, 43%, 22%);
+    margin-bottom: 15px;
+    font-weight: 700;
+    padding: 17px 45px 16px 30px;
+    display: flex;
+    font-size: 12px;
+    border-radius: 8px;
+    position: relative;
+    left: 75px;
+}
+img {
+    margin: 0 5px;
+    width: 15px;
+    height: 14px;
+}
+.last {
+    padding-right: 25px;
+}
+.alt {
+    display: flex;
+    margin-bottom: 25px;
+}
+.baslik {
+    display: flex;
+    margin-bottom: 25px;
+}
+.colton {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+.kutu {
+    background-color: hsl(300, 43%, 22%);
+    margin-right: 25px;
+    padding: 30px 25px;
+    border-radius: 10px;
+    width: 270px;
+}
+.tag {
+    display: flex;
+    flex-direction: column;
+    margin-left: 16px;
+}
+p3 {
+    color: hsl(300, 24%, 96%);
+    font-size: 12px;
+    line-height: 25px;
+    font-weight: 500;
+}
+p4 {
+    color: hsl(333, 80%, 67%);
+    font-size: 12px;
+    font-weight: 400;
+}
+p5 {
+    color: hsl(300, 24%, 96%);
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+}
+.second {
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+.third {
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
